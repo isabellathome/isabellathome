@@ -19,10 +19,10 @@
 
  ## Redes Socias:
 
- [![Gmail](img/gmail.png =22x22)](isabellathome7@gmail.com)
- [![Instagram](img/instagram.png =22x22)](https://www.instagram.com/itsbellathome)
- [![LinkedIn](img/gmail.png =22x22)](isabellathome7@gmail.com)
-
+ <img src="img/gmail.png" alt="Gmail" width="22"/>
+ <img src="img/instagram.png" alt="Instagram" width="22"/>
+ <img src="img/gmail.png" alt="LinkedIn" width="22"/>
+ 
  ### Créditos: 
  
  GIF feito por @platzi from Giphy.com
