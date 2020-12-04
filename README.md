@@ -19,9 +19,9 @@
 
  ## Redes Socias:
 
- <img src="img/gmail.png" alt="Gmail" width="22"/>
- <img src="img/instagram.png" alt="Instagram" width="22"/>
- <img src="img/gmail.png" alt="LinkedIn" width="22"/>
+ <a href="www.gmail.com/isabellathome7@gmail.com"> <img src="img/gmail.png" alt="Gmail" width="22"/> </a>
+ <a href="https://www.instagram.com/itsbellathome)"> <img src="img/instagram.png" alt="Instagram" width="22"/> </a>
+ <a href="www."> <img src="img/gmail.png" alt="LinkedIn" width="22"/> </a>
  
  ### Créditos: 
  
