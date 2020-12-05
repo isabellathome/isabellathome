@@ -2,7 +2,7 @@
 
  Olá Mundo! Fico feliz por você ter entrado no meu perfil! :blush:
 
- Sou a Isabella, desenvolvedora front-end e UX Designer. Atualmente moro em Brasília e estou a procura de estágio na área de tecnologia para que possa discorrer ainda mais as minhas habilidades.
+ Sou a Isabella! Desenvolvedora front-end e UX Designer. Atualmente moro em Brasília e estou a procura de estágio na área de tecnologia para que possa discorrer ainda mais as minhas habilidades. Algo fascinante que acho da minha área é que através do front-end e do UX, posso utilizar minha criatividade para criar projetos incríveis que antes apenas eu visualizava. 
 
  <img align="right" alt="banner" title="Banner-GIF" src="https://media.giphy.com/media/TjRcLDHDgLOWiI0L1V/giphy.gif" />
  
@@ -19,9 +19,9 @@
 
  ## Redes Socias:
 
- <a href="www.gmail.com/isabellathome7@gmail.com"> <img src="img/gmail.png" alt="Gmail" width="22"/> </a>
- <a href="https://www.instagram.com/itsbellathome)"> <img src="img/instagram.png" alt="Instagram" width="22"/> </a>
- <a href="www."> <img src="img/gmail.png" alt="LinkedIn" width="22"/> </a>
+ <a href="mailto:isabellathome7@gmail.com"> <img src="img/gmail.png" alt="Gmail - isabellathome7@gmail.com" width="30"/> </a>
+ <a href="https://www.instagram.com/itsbellathome"> <img src="img/instagram.png" alt="Instagram" width="30"/> </a>
+ <a href="https://www.linkedin.com/in/isabella-thom%C3%A9-999305188/"> <img src="img/linkedin.png" alt="LinkedIn" width="30"/> </a>
  
  ### Créditos: 
  
