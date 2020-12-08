@@ -7,14 +7,12 @@
  <img align="right" alt="banner" title="Banner-GIF" src="https://media.giphy.com/media/TjRcLDHDgLOWiI0L1V/giphy.gif" />
  
  ## Tecnologias:
- Tenho experiência com as seguintes linguagens:
+ Tenho experiência com as seguintes tecnologias:
  <!--ts-->
    * Linguagem C;
    * Linguagem Python;
    * Linguagem MySQL;
-   * Linguagem JavaScript;
-   * HTML;
-   * CSS.
+   * Linguagem JavaScript.
  <!--te-->
 
  ## Redes Socias:
