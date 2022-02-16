@@ -2,7 +2,7 @@
 
  Olá Mundo! Fico feliz por você ter entrado no meu perfil! :blush:
 
- Sou a Isabella! Desenvolvedora front-end e UX Designer. Atualmente moro em Brasília e estou a procura de estágio na área de tecnologia para que possa discorrer ainda mais as minhas habilidades. Algo fascinante que acho da minha área é que através do front-end e do UX, posso utilizar minha criatividade para criar projetos incríveis que antes apenas eu visualizava. 
+ Sou a Isabella! Desenvolvedora front-end e UI/UX Designer. Atualmente moro em Brasília e estou a procura de estágio na área de tecnologia para que possa discorrer ainda mais as minhas habilidades.
 
  <img align="right" alt="banner" title="Banner-GIF" src="https://media.giphy.com/media/TjRcLDHDgLOWiI0L1V/giphy.gif" />
  
@@ -11,6 +11,8 @@
  <!--ts-->
    * Linguagem C;
    * Linguagem Python;
+   * Linguagem PHP;
+   * Linguagem Java;
    * Linguagem MySQL;
    * Linguagem JavaScript.
  <!--te-->
