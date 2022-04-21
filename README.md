@@ -1,4 +1,4 @@
-# Sobre mim:
+## Sobre mim:
 
  Olá Mundo! Fico feliz por você ter entrado no meu perfil! :blush:
 
@@ -8,25 +8,24 @@
  
  ## Tecnologias:
  Tenho experiência com as seguintes tecnologias:
- <!--ts-->
-   * Linguagem C;
-   * Linguagem Python;
-   * Linguagem PHP;
-   * Linguagem Java;
-   * Linguagem MySQL;
-   * Linguagem JavaScript.
- <!--te-->
+<div style="display: inline_block"><br>
+ <img align="center" alt="Isabella-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+ <img align="center" alt="Isabella-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Isabella-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Isabella-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+ <img align="center" alt="Isabella-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Isabella-Python" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
+ <img align="center" alt="Isabella-C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
+ </div>
 
- ## Redes Socias:
+ ## Redes sociais:
 
-... <a href="mailto:isabellathome7@gmail.com"> <img src="img/gmail.png" alt="Gmail - isabellathome7@gmail.com" width="30"/> </a> <a href=""> ... </a>
- <a href="https://www.instagram.com/itsbellathome"> <img src="img/instagram.png" alt="Instagram" width="30"/> </a> <a href=""> ... </a>
- <a href="https://www.linkedin.com/in/isabella-thom%C3%A9-999305188/"> <img src="img/linkedin.png" alt="LinkedIn" width="30"/> ... </a>
+ <div>
+  <a href="https://www.instagram.com/itsbellathome/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:isabellathome7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/isabella-thom%C3%A9-999305188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
  
  ### Créditos: 
  
  GIF feito por @platzi from Giphy.com
-  
- Ícones do LinkedIn e do Instagram feitos por <a href="https://www.flaticon.com/br/autores/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon"> www.flaticon.com</a>
-   
- Ícone do Gmail feito por <a href="https://www.flaticon.com/br/autores/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/br/" title="Flaticon"> www.flaticon.com</a>
